@@ -2,11 +2,11 @@
 //принимает число (N), а на выходе показывает все чётные
 //числа от 1 до N.
 //N= 8 -> 2, 4, 6, 8
-int N = 9;
-int A = 0;
- while( A <= N )
- {
-    Console.WriteLine("N: "+ A);
-    A = A + 2;
- }
+//int N = 9;
+//int A = 0;
+// while( A <= N )
+ //{
+ //   Console.WriteLine("N: "+ A);
+ //   A = A + 2;
+// }
 
