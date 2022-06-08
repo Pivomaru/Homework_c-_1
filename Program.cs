@@ -3,13 +3,10 @@
 //числа от 1 до N.
 //N= 8 -> 2, 4, 6, 8
 int N = 9;
-int A = 1;
-if(N % 2 == 0)
-{
+int A = 0;
  while( A <= N )
  {
     Console.WriteLine("N: "+ A);
-    A++; 
+    A = A + 2;
  }
-}
 
